@@ -1,0 +1,14 @@
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: #CCC;
+  display: inline-block;
+}
+
+#harold {
+  background-color: #F00;
+}
+
+#herbert {
+  background-color: #00F;
+}
